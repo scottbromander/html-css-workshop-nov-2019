@@ -1,0 +1,43 @@
+body {
+    background-color: green;
+}
+
+header {
+    background-color: red;
+    padding: 50px;
+    border: 5px dashed black;
+}
+
+h1 {
+    color: white;
+}
+
+img {
+    width: 150px;
+}
+
+nav {
+    background-color: white;
+}
+
+ul {
+    list-style: none;
+}
+
+.pizza-news {
+    background-color: white;
+}
+
+.first {
+    background-color: OliveDrab;
+}
+
+#cheese {
+    color: blue;
+}
+
+li {
+    display: inline-block;
+    padding: 15px;
+    color: orange;
+}
